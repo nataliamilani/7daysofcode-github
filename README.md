@@ -6,7 +6,7 @@ Desafio #7DaysOfCode de GitHub - Alura
 - Criar um repositório público
 
 ## Desafio dia 2:
-- XXX
+- Copiar arquivos e pasta manualmente via pagina do github, do projeto template e realizar os commits.
 
 ## Desafio dia 3:
 - XXX
