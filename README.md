@@ -1,2 +1,24 @@
 # 7daysofcode-github
 Desafio #7DaysOfCode de GitHub - Alura
+
+
+## Desafio dia 1:
+- Criar um repositório público
+
+## Desafio dia 2:
+- XXX
+
+## Desafio dia 3:
+- XXX
+
+## Desafio dia 4:
+- XXX
+
+## Desafio dia 5:
+- XXX
+
+## Desafio dia 6:
+- XXX
+
+## Desafio dia 7:
+- XXX
