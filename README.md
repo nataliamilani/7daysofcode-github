@@ -9,7 +9,7 @@ Desafio #7DaysOfCode de GitHub - Alura
 - Copiar arquivos e pasta manualmente via pagina do github, do projeto template e realizar os commits.
 
 ## Desafio dia 3:
-- XXX
+- Clonando repositório no VSCode, e subindo commit pelo mesmo.
 
 ## Desafio dia 4:
 - XXX
