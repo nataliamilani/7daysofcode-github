@@ -12,7 +12,7 @@ Desafio #7DaysOfCode de GitHub - Alura
 - Clonando repositório no VSCode, e subindo commit pelo mesmo.
 
 ## Desafio dia 4:
-- XXX
+- Alterar imagem, titulo e descrições dos filmes, via VSCode e realizar commit pela própria IDE.
 
 ## Desafio dia 5:
 - XXX
