@@ -18,7 +18,7 @@ Desafio #7DaysOfCode de GitHub - Alura
 - Realizando revert de um commit
 
 ## Desafio dia 6:
-- XXX
+- Resolvendo conflitos
 
 ## Desafio dia 7:
 - XXX
