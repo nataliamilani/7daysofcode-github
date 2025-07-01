@@ -21,4 +21,4 @@ Desafio #7DaysOfCode de GitHub - Alura
 - Resolvendo conflitos
 
 ## Desafio dia 7:
-- XXX
+- Deploy do repositório no Github pages
