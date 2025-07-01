@@ -15,7 +15,7 @@ Desafio #7DaysOfCode de GitHub - Alura
 - Alterar imagem, titulo e descrições dos filmes, via VSCode e realizar commit pela própria IDE.
 
 ## Desafio dia 5:
-- XXX
+- Realizando revert de um commit
 
 ## Desafio dia 6:
 - XXX
